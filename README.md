@@ -1,7 +1,29 @@
 # FastSplatStyler
 Official Implementation of "Optimization-Free Style Transfer of 3D Gaussian Splats"
 
-Example inputs, outputs, and the needed graph model files can be downloaded [here](https://drive.google.com/drive/folders/10YmtcCOKGosXfPEi84ho1AfYRYioYo12?usp=drive_link)
+[arXiv Paper](https://arxiv.org/abs/2508.05813)
+
+![](example.jpg)
+
+## Example Outputs
+
+Example Outputs can be visualized at the following links.
+
+**Coming soon**
+
+Example inputs and outputs can be downloaded [here](https://drive.google.com/drive/folders/10YmtcCOKGosXfPEi84ho1AfYRYioYo12?usp=drive_link)
+
+## Demo
+
+**Coming soon**
+
+## Install
+
+This work relies heavily on the [Pytorch](https://pytorch.org/) and [Pytorch Geometric](https://www.pyg.org/) libraries.
+
+This code was tested with Python 3.12, Pytorch 2.9.1 (CUDA Toolkit 12.8), and Pytorch Geometric 2.8 on Windows.
+
+Needed model weight files can be downloaded [here](https://drive.google.com/drive/folders/10YmtcCOKGosXfPEi84ho1AfYRYioYo12?usp=drive_link)
 
 To stylize a splat, run `python styletransfer_splat.py filename.splat`
 
