@@ -23,7 +23,7 @@ This work relies heavily on the [Pytorch](https://pytorch.org/) and [Pytorch Geo
 
 This code was tested with Python 3.12, Pytorch 2.9.1 (CUDA Toolkit 12.8), and Pytorch Geometric 2.8 on Windows.
 
-Needed model weight files can be downloaded [here](https://drive.google.com/drive/folders/10YmtcCOKGosXfPEi84ho1AfYRYioYo12?usp=drive_link)
+This repository relies on a graph networks library that was presented in a previous work. The library can be downloaded, with included model weights, at this [google drive link](https://drive.google.com/drive/folders/10YmtcCOKGosXfPEi84ho1AfYRYioYo12?usp=drive_link). Place the "graph_networks" folder in the main directory.
 
 To stylize a splat, run `python styletransfer_splat.py filename.splat`
 
