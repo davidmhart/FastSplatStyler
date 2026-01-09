@@ -7,11 +7,17 @@ Official Implementation of "Optimization-Free Style Transfer of 3D Gaussian Spla
 
 ## Example Outputs
 
-Example Outputs can be visualized at the following links.
+Example Outputs can be visualized using the [Antimatter WebGL viewer](https://antimatter15.com/splat/) at the following links.
 
-**Coming soon**
+- Broche: [Original](https://huggingface.co/datasets/incrl/fast-splat-styler/resolve/main/broche-rose-gold_original.splat) and [Stylized](https://huggingface.co/datasets/incrl/fast-splat-styler/resolve/main/broche-rose-gold_style3.splat)
+- Crystal Lamp: [Original](https://huggingface.co/datasets/incrl/fast-splat-styler/resolve/main/crystal-lamp-original.splat) and [Stylized](https://huggingface.co/datasets/incrl/fast-splat-styler/resolve/main/crystal-lamp-style2.splat)
+- Family Statue: [Original](https://huggingface.co/datasets/incrl/fast-splat-styler/resolve/main/family.ply) and [Stylized](https://huggingface.co/datasets/incrl/fast-splat-styler/resolve/main/family-style-6.splat)
+- M60 Tanks: [Original](https://huggingface.co/datasets/incrl/fast-splat-styler/resolve/main/m60.ply) and [Stylized](https://huggingface.co/datasets/incrl/fast-splat-styler/resolve/main/m60-style-31.splat)
+- Table: [Original](https://huggingface.co/datasets/incrl/fast-splat-styler/resolve/main/Table.ply) and [Stylized](https://huggingface.co/datasets/incrl/fast-splat-styler/resolve/main/Table_style5.splat)
+- Train: [Original](https://antimatter15.com/splat/) and [Stylized](https://huggingface.co/datasets/incrl/fast-splat-styler/resolve/main/train_style1.splat)
+- Truck: [Original](https://huggingface.co/datasets/incrl/fast-splat-styler/resolve/main/truck.splat) and [Stylized](https://huggingface.co/datasets/incrl/fast-splat-styler/blob/main/truck-style-21.splat)
 
-Example inputs and outputs can be downloaded [here](https://drive.google.com/drive/folders/10YmtcCOKGosXfPEi84ho1AfYRYioYo12?usp=drive_link)
+Example inputs and outputs can be downloaded from [Google Drive] (https://drive.google.com/drive/folders/10YmtcCOKGosXfPEi84ho1AfYRYioYo12?usp=drive_link) or [Hugging Face](https://huggingface.co/datasets/incrl/fast-splat-styler/tree/main)
 
 ## Demo
 
