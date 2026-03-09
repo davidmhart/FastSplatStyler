@@ -1,7 +1,7 @@
 # FastSplatStyler
-Official Implementation of "Optimization-Free Style Transfer of 3D Gaussian Splats"
+Official Implementation of "Optimization-Free Style Transfer of 3D Gaussian Splats" from WACV 2026.
 
-[arXiv Paper](https://arxiv.org/abs/2508.05813) 
+[Paper](https://openaccess.thecvf.com/content/WACV2026/html/Du_Sablon_Optimization-Free_Style_Transfer_for_3D_Gaussian_Splats_WACV_2026_paper.html) 
 
 [Video](https://www.youtube.com/watch?v=JfOiDYW02EY)
 
