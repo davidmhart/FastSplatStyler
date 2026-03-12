@@ -21,6 +21,10 @@ Example Outputs can be visualized using the [Antimatter WebGL viewer](https://an
 
 Example inputs and outputs can be downloaded from [Google Drive](https://drive.google.com/drive/folders/10YmtcCOKGosXfPEi84ho1AfYRYioYo12?usp=drive_link) or [Hugging Face](https://huggingface.co/datasets/incrl/fast-splat-styler/tree/main)
 
+## Gradio Demo
+
+A gradio demo is also provided. Run `python gradio_app.py` to run it. You can also check out the demo online at [HuggingFace](https://huggingface.co/spaces/incrl/FastSplatStyler)
+
 ## Install and Run
 
 This work relies heavily on the [Pytorch](https://pytorch.org/) and [Pytorch Geometric](https://www.pyg.org/) libraries.
@@ -32,8 +36,4 @@ This repository relies on a graph networks library that was presented in a [prev
 To stylize an example splat, run `python styletransfer_splat.py example-broche-rose-gold.splat --stylePath style_ims/style0.jpg --samplingRate 1.5`. You can change the input splat and style image to your specific use case.
 
 Supports `.splat` and `.ply` files.
-
-## Demo
-
-A gradio demo is also provided. Run `python gradio_app.py` to run it. A HuggingFace Space demo is coming soon.
 
